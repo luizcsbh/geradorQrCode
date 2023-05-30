@@ -12,7 +12,7 @@ O gerador de Qr-Code &eacute; uma aplica&ccedil;&atilde;o web simples onde h&aac
 
 ## Patrocinador
 
-Se voc&ecirc; quer ser um financiador click em [Patreon page](https://patreon.com/LuizSantos610).
+Se voc&ecirc; quer ser um financiador click em [Patreon page](https://www.patreon.com/luizcsbh).
 
 ## Seguran&ccedil;a e Vulnerabilidades
 
