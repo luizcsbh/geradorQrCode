@@ -1,6 +1,3 @@
-
-
-
 ![Build](https://img.shields.io/github/actions/workflow/status/luizcsbh/geradorQrCode/laravel.yml)
 ![Code Size](https://img.shields.io/github/languages/code-size/luizcsbh/geradorQrCode)
 [![Lincen&ccedil;a](https://img.shields.io/github/license/luizcsbh/geradorQrCode)](https://github.com/luizcsbh/geradorQrCode/blob/main/LICENSE)
